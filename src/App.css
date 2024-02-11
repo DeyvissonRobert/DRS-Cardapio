@@ -87,3 +87,55 @@ input:checked+label {
   width: 100%;
   object-fit: cover;
 }
+
+@media (max-width: 1024px) {
+
+  .navegacao {
+    margin-top: 0.2rem;
+    flex-direction: column;
+    align-items: center;
+
+    &>label {
+      width: 60%;
+      background-color: #2c2b2c;
+      color: #FFFCF9;
+      padding: 0.5rem 1rem;
+    }
+  }
+
+  .container-item-cardapio {
+
+    min-width: 3rem;
+    padding: 1rem;
+    align-items: center;
+
+    &>img {
+      height: 9rem;
+    }
+
+    &>div {
+      display: flex;
+      flex-direction: column;
+      flex-basis: 0%;
+      flex-grow: 0;
+
+      &>h2 {
+        font-weight: 600;
+        font-size: 1.4rem;
+      }
+
+      &>p {
+        width: 7rem;
+        font-size: 0.9rem;
+      }
+    }
+  }
+
+}
+
+@media (max-width: 600px) {
+  body {
+    background: url(./assets/TowerEiffel-mobile.png);
+    background-size: cover;
+  }
+}
