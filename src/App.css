@@ -55,6 +55,7 @@ input:checked+label {
   justify-content: space-evenly;
   border-radius: 10px;
   box-shadow: -2px 2px 20px #002;
+  transition: 0.5s;
 
   &>img {
     height: 11rem;
@@ -70,6 +71,9 @@ input:checked+label {
     &>h2 {
       font-weight: 600;
     }
+  }
+  &:hover {
+    transform: scale(1.1);
   }
 }
 
