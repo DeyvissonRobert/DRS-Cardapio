@@ -12,6 +12,6 @@
   </div>
 
 <div align="center" display="inline-block">
-<img  alt="imagem do projeto no desktop" src="">
-<img alt="imagem do projeto no mobile" src="">
+<img  alt="imagem do projeto no desktop" src="https://github.com/DeyvissonRobert/DRS-Cardapio/blob/main/src/assets/Cardapio%20Desktop.png">
+<img alt="imagem do projeto no mobile" src="https://github.com/DeyvissonRobert/DRS-Cardapio/blob/main/src/assets/Card%C3%A1pio%20mobile.png">
 </div>
