@@ -9,7 +9,7 @@
 }
 
 body {
-  background: url(./assets/TowerEiffel.png);
+  background: url(./assets/images/TowerEiffel.png);
   background-size: cover;
   backdrop-filter: blur(0.5px);
 }
@@ -139,7 +139,7 @@ input:checked+label {
 
 @media (max-width: 600px) {
   body {
-    background: url(./assets/TowerEiffel-mobile.png);
+    background: url(./assets/images/TowerEiffel-mobile.png);
     background-size: cover;
   }
 }
