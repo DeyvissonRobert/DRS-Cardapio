@@ -3,7 +3,7 @@
 
 <div align="center">
   
-# ✧ Projeto Cardápio ✧
+# ✧ DRS Cardápio ✧
 <br> <br>
 
 ## ✧ Nesse projeto eu tive meu primeiro contato com o React e o Vite 🤩 e o desenvolvi durante o "Intensivão de JavaScript" da Hashtag ✧
